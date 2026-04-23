@@ -1,0 +1,11 @@
+[
+  { "word": "vis",  "image": "vis.png",  "distractors": ["taart", "hond"] },
+  { "word": "taart",  "image": "taart.png",  "distractors": ["vis", "boom"] },
+  { "word": "hond", "image": "hond.png", "distractors": ["vis", "taart"]  },
+  { "word": "boom", "image": "boom.png", "distractors": ["vis", "hond"] },
+  { "word": "ster", "image": "ster.png", "distractors": ["vis", "taart"] },
+  { "word": "pet", "image": "pet.png", "distractors": ["hond", "boom"] },
+  { "word": "wolk", "image": "wolk.png", "distractors": ["taart", "pet"] },
+  { "word": "zon", "image": "zon.jpg", "distractors": ["hond", "wolk"] },
+  { "word": "kip", "image": "kip.png", "distractors": ["vis", "ster"] }
+]
